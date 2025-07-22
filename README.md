@@ -1,2 +1,9 @@
 # S.E.T
-Sdd exif tooltooll
+Sdd exif tool
+
+Requeriments 
+
+streamlit
+pillow
+requests
+numpy
