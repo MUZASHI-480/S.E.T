@@ -16,5 +16,5 @@ Uma ferramenta gráfica para análise de metadados (EXIF), geolocalização, ver
 ## 📦 Requisitos
 
 ```bash
-pip install pillow playwright requests pyperclip numpy
-playwright install
+pip install pillow requests pyperclip numpy
+
